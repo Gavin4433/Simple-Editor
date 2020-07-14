@@ -95,3 +95,4 @@ window.config(menu=menubar)
 window.bind("<Control-o>", lambda event: load())
 window.bind("<Control-s>", lambda event: save2())
 mainloop()
+#something good ...
